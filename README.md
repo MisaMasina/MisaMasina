@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MisaMasina
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning JS,HTML,CSS
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 My email is misamasina@gmail.com
 
 <!---
 MisaMasina/MisaMasina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
